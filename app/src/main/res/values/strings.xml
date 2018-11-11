@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OMDbApp</string>
+    <string name="title_home">Search for Movies!</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="search_title">Search for your favorite movie !</string>
+    <string name="search_hint">Search for movies !</string>
+</resources>
